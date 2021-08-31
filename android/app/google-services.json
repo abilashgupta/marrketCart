@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "293999573853",
+    "project_id": "marketsimp",
+    "storage_bucket": "marketsimp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293999573853:android:cd19568083e66f340506b4",
+        "android_client_info": {
+          "package_name": "com.example.market_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293999573853-bvai4bu0js9apukv70cdpkdf5k7rjup3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.market_cart",
+            "certificate_hash": "3a93455ddb96cb366ceb6298b972cf0cbdbaa72a"
+          }
+        },
+        {
+          "client_id": "293999573853-8s8ifjv41ih26v4bq8kglbikppqk3l2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_P256UzQKu_dCOjRxSjWFxGWCdbEuJ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293999573853-8s8ifjv41ih26v4bq8kglbikppqk3l2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
